@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="discord-clone" title="#DiscordClone" src=".github/main.png" width="1000px" />
+    <img alt="discord-clone" title="#DiscordClone" src="https://yuripalacio-discord-clone.netlify.app/" width="1000px" />
 </h1>
 
 ## Available Scripts
